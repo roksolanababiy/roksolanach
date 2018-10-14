@@ -1,0 +1,132 @@
+html{
+    background-color: white;
+    
+}
+body {
+    background: #fff;
+    font-size: 16px;
+   
+    max-width: 800px;}
+
+header{
+    background-color:  #3ea152;
+    border: 1px solid black;
+	height: 20px;
+    margin-bottom: 0px;}
+h1{
+   
+    font-size: 10px;
+}
+
+ #head{
+     display: flex;
+     flex-direction:row;
+     justify-content: space-around;
+     line-height: 1.5;
+     padding-top: 5px;
+     font-size: 13px;
+     margin-left: 30px;
+     width: 90%;
+}
+button{
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+    background-color:  #f3b607;
+    font-size: 13px;
+    margin-top: 5px;
+    border:1px solid black;
+}
+.topnav{
+   
+   display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    background:  #3ea152;
+    font: white;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 10px;
+    height:30px;
+    border:1px solid black;
+   
+}
+ul{
+   height: 20px;
+   width: 120px;    
+    
+}
+section{
+ display: flex;
+     flex-direction:row;
+     justify-content: space-around;
+     margin-left: 30px;
+}
+.house{
+    width: 75%;
+    margin: 0;
+}
+.sidebar{
+    width: 25%;
+    margin: 0;
+}
+.img{
+    width: 500px;
+    height: 200px;
+    
+}
+
+.game{
+   float:left;
+    margin-left:183px;
+    
+}
+.pictures{
+   float:left;
+    margin: 10px;
+ 
+}
+div.info{
+    width:100%;
+    margin-left: 210px;
+    height: 300px;
+}
+
+img{
+    width:170px;
+    margin: 0;
+}
+p.info{
+     width:170px;
+    height: 100px;
+    background-color:  #3ea152; 
+    margin:0;
+}
+footer {
+    background-color: bisque;
+       
+}
+    
+.contact{
+   display: flex;
+     flex-direction:row;
+     justify-content: space-around;
+    background-color: #f3b607;
+      margin: 0;
+    
+}
+.images{
+   display: flex;
+     flex-direction:row;
+     justify-content: space-around;
+    background-color: #3ea152;
+    margin: 0;
+    padding: 0  50px 0 50px;
+      height: 65px;
+    
+}
+.footer{
+     width:150px;
+     height: 50px;
+    margin: 10px;}
+
